@@ -11,7 +11,7 @@ class InventoryControllerTest {
     @Test
     public void isInStock() {
 
-        System.out.println("test changes created");
+        System.out.println("test");
 
     }
 
